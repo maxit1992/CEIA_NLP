@@ -1,4 +1,4 @@
-![logo](logo.png =100x)
+![NLP](/logo.png)
 
 # Natural Language Processing
 
